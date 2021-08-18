@@ -141,6 +141,8 @@ INSERT INTO `tblcontactusquery` (`id`, `name`, `EmailId`, `ContactNumber`, `Mess
 
 --
 -- Table structure for table `tblpages`
+-- dbusername: cyberange
+-- dbpassword: flag{GitHub_Recon_Is_Simple}
 --
 
 CREATE TABLE `tblpages` (
